@@ -1,0 +1,11 @@
+C:\Users\ahmed\OneDrive\Masaüstü\cizim_prog\cizim_prog\bin\Debug\cizim_prog.exe.config
+C:\Users\ahmed\OneDrive\Masaüstü\cizim_prog\cizim_prog\bin\Debug\cizim_prog.exe
+C:\Users\ahmed\OneDrive\Masaüstü\cizim_prog\cizim_prog\bin\Debug\cizim_prog.pdb
+C:\Users\ahmed\OneDrive\Masaüstü\cizim_prog\cizim_prog\obj\Debug\cizim_prog.csproj.AssemblyReference.cache
+C:\Users\ahmed\OneDrive\Masaüstü\cizim_prog\cizim_prog\obj\Debug\cizim_prog.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmed\OneDrive\Masaüstü\cizim_prog\cizim_prog\obj\Debug\cizim_prog.Form1.resources
+C:\Users\ahmed\OneDrive\Masaüstü\cizim_prog\cizim_prog\obj\Debug\cizim_prog.Properties.Resources.resources
+C:\Users\ahmed\OneDrive\Masaüstü\cizim_prog\cizim_prog\obj\Debug\cizim_prog.csproj.GenerateResource.cache
+C:\Users\ahmed\OneDrive\Masaüstü\cizim_prog\cizim_prog\obj\Debug\cizim_prog.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\OneDrive\Masaüstü\cizim_prog\cizim_prog\obj\Debug\cizim_prog.exe
+C:\Users\ahmed\OneDrive\Masaüstü\cizim_prog\cizim_prog\obj\Debug\cizim_prog.pdb
